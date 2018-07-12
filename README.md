@@ -31,4 +31,4 @@ On client:
 
 	$ ./client.py
 
-Use option `-h` or `--help` with client to obtain more options.
+Use option `-h` or `--help` with client or server to obtain more options.
